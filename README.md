@@ -16,3 +16,8 @@ For spring 2024, we meet every Wednesday 11am-12pm CST
 | S4  | LLM Geometry | Timothy Phillips | [The Information of Large Language Model Geometry](https://arxiv.org/abs/2402.03471)  | <!---end--->
 | S5  | Semantic Scholar | Yiren Liu          |                  |<!---end--->
 | S6 | Argumentation | Yuanxi Fu          |                  |<!---end--->
+
+
+## Related Resources
+- LLMDataHub: Awesome Datasets for LLM Training https://github.com/Zjh-819/LLMDataHub
+- ai4db and db4ai work https://github.com/TsinghuaDatabaseGroup/AIDB 
