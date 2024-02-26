@@ -15,7 +15,7 @@ For spring 2024, we meet every Wednesday 11am-12pm CST
 | S3  | Table-based Reasoning | Meng Li   | [Large language models are versatile decomposers: Decomposing evidence and questions for table-based reasoning](https://arxiv.org/pdf/2301.13808.pdf) (SIGIR'23) |  <!---end--->
 | S4  | LLM Geometry | Timothy Phillips | [The Information of Large Language Model Geometry](https://arxiv.org/abs/2402.03471)  | <!---end--->
 | S5  | Semantic Scholar | Yiren Liu          |                  |<!---end--->
-| S6 | Argumentation | Yuanxi Fu          |                  |<!---end--->
+| S6 | Argumentation | Yuanxi Fu          | [Exploring the Potential of Large Language Models in Computational Argumentation](https://arxiv.org/abs/2311.09022)               |<!---end--->
 
 
 ## Related Resources
