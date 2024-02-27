@@ -14,7 +14,7 @@ For spring 2024, we meet every Wednesday 11am-12pm CST
 | S2  | Vector Database | Lan Li | [Milvus: A Purpose-Built Vector Data Management System](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3448016.3457550) (SIGMOD'21)       | <!---end--->
 | S3  | Table-based Reasoning | Meng Li   | [Large language models are versatile decomposers: Decomposing evidence and questions for table-based reasoning](https://arxiv.org/pdf/2301.13808.pdf) (SIGIR'23) |  <!---end--->
 | S4  | LLM Geometry | Timothy Phillips | [The Information of Large Language Model Geometry](https://arxiv.org/abs/2402.03471)  | <!---end--->
-| S5  | Semantic Scholar | Yiren Liu          |                  |<!---end--->
+| S5  | LLM for Research Ideation | Yiren Liu          |        [SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259)          |<!---end--->
 | S6 | Argumentation | Yuanxi Fu          | [Exploring the Potential of Large Language Models in Computational Argumentation](https://arxiv.org/abs/2311.09022)               |<!---end--->
 
 
