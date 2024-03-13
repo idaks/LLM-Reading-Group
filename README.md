@@ -13,7 +13,7 @@ For spring 2024, we meet every Wednesday 11am-12pm CST
 | S1  | Feb 28  | Chain-of-Thoughts     | Yilin Xia       | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf) (NeurIPS'22)|<!---end--->
 | S2  | Mar 06  | Table-based Reasoning | Meng Li         | [Large language models are versatile decomposers: Decomposing evidence and questions for table-based reasoning](https://arxiv.org/pdf/2301.13808.pdf) (SIGIR'23) |  <!---end--->
 | S3  | Mar 20  | Vector Database       | Lan Li          | [Milvus: A Purpose-Built Vector Data Management System](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3448016.3457550) (SIGMOD'21)       | <!---end--->
-| S4  | Mar 27  | LLM Geometry          | Timothy Phillips| [The Information of Large Language Model Geometry](https://arxiv.org/abs/2402.03471)  | <!---end--->
+| S4  | Mar 27  | LLM Geometry          | Timothy McPhillips| [The Information of Large Language Model Geometry](https://arxiv.org/abs/2402.03471)  | <!---end--->
 | S5  | Apr 03  | LLM for Research Ideation | Yiren Liu   | [SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259)          |<!---end--->
 | S6  | Apr 10  | Argumentation        | Yuanxi Fu       | [Exploring the Potential of Large Language Models in Computational Argumentation](https://arxiv.org/abs/2311.09022)               |<!---end--->
 | S7  | Apr 17  | Polycontextural Logic                  |Johannes Falk           | [Collective patterns and stable misunderstandings in networks striving for consensus without a common value system](https://www.nature.com/articles/s41598-022-06880-7)      |<!---end--->
