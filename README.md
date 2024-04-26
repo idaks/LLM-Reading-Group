@@ -18,7 +18,7 @@ For spring 2024, we meet every Wednesday 11am-12pm CST
 | S6  | Apr 10  | Argumentation        | Yuanxi Fu       | [Exploring the Potential of Large Language Models in Computational Argumentation](https://arxiv.org/abs/2311.09022)               |<!---end--->
 | S7  | Apr 17  | Polycontextural Logic                  |Johannes Falk           | [Collective patterns and stable misunderstandings in networks striving for consensus without a common value system](https://www.nature.com/articles/s41598-022-06880-7)      |<!---end--->
 | S8  | Apr 24  | Knowledge Injection  | Zhiwen (Jerome) You   | [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs](https://arxiv.org/abs/2312.05934)      |<!---end--->
-| S9  | May 01  | TBD                  |                |       |<!---end--->
+| S9  | May 01  | Evaluation                  | Vardhan Dongre               |[Towards Credible Human Evaluation of Open-Domain Dialog Systems Using Interactive Setup](https://ojs.aaai.org/index.php/AAAI/article/view/26557)       |<!---end--->
 
 
 
