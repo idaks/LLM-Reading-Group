@@ -6,6 +6,21 @@ This serves as the main hub for posting the iDAKs reading group's schedules and 
 > Query Languages/ Data Cleaning/ Trustworthy Machine Learning/ Provenance/ Semantic Scholar/ Knowledge Graph/ Argumentation …
 
 ## Schedule
+
+### Fall 2024
+
+Every Thursday 11am-12pm CST
+
+| Sec | Date | Topic | Presenter | Paper |
+|:---:|:---:|:---|:---|:---|
+| S1  | Sept 19   | TBD | Meng Li         |     TBD  |
+| S2  | Sept 26   | TBD | Yilin Xia       |     TBD  |
+| S3  | Oct 3     | TBD | Yuanxi          |     TBD  |
+| S4  | Oct 10    | TBD | Tre             |     TBD  |
+| S5  | Oct 17    | TBD | Yiren           |     TBD  |
+| S6  | Oct 24    | TBD | Lan             |     TBD  |
+
+
 ### Spring 2024
 For spring 2024, we meet every Wednesday 11am-12pm CST
 | Sec | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Topic                 | Presenter       | Paper |
