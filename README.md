@@ -11,14 +11,14 @@ This serves as the main hub for posting the iDAKs reading group's schedules and 
 
 Every Thursday 11am-12pm CST
 
-| Sec |  Date   | Topic                  | Presenter | Paper                                                                                                        |
-|:---:|:-------:|:-----------------------|:----------|:-------------------------------------------------------------------------------------------------------------|
-| S1  | Sept 19 | LLM Agents             | Meng Li   | [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155) |
-| S2  | Sept 26 | Programming by Example | Yilin Xia | [Is Programming by Example solved by LLMs? ](https://arxiv.org/abs/2406.08316)                               |
-| S3  |  Oct 3  | TBD                    | Yuanxi    | TBD                                                                                                          |
-| S4  | Oct 10  | TBD                    | Tre       | TBD                                                                                                          |
-| S5  | Oct 17  | TBD                    | Yiren     | TBD                                                                                                          |
-| S6  | Oct 24  | TBD                    | Lan       | TBD                                                                                                          |
+| Sec | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic                                | Presenter | Paper                                                                                                        |
+|:---:|:----------------------------------:|:-------------------------------------|:----------|:-------------------------------------------------------------------------------------------------------------|
+| S1  |               Sep 19               | LLM Agents                           | Meng Li   | [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155) |
+| S2  |               Sep 26               | Programming by Example               | Yilin Xia | [Is Programming by Example solved by LLMs? ](https://arxiv.org/abs/2406.08316)                               |
+| S3  |               Oct 3                | Retrieval-Augmented Generation (RAG) | Yuanxi    | [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)                           |
+| S4  |               Oct 10               | TBD                                  | Tre       | TBD                                                                                                          |
+| S5  |               Oct 17               | TBD                                  | Yiren     | TBD                                                                                                          |
+| S6  |               Oct 24               | TBD                                  | Lan       | TBD                                                                                                          |
 
 
 ### Spring 2024
