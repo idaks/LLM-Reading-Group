@@ -19,7 +19,7 @@ Every Thursday 11am-12pm CST
 | S4  |               Oct 10               | TBD                                  | Tre       | TBD                                                                                                          |
 | S5  |               Oct 17               | TBD                                  | Yiren     | TBD                                                                                                          |
 | S6  |               Oct 24               | TBD                                  | Lan       | TBD                                                                                                          |
-
+| S7  |               Nov 7                | TBD                                  | Jerome    | TBD                                                                                                          |
 
 ### Spring 2024
 For spring 2024, we meet every Wednesday 11am-12pm CST
