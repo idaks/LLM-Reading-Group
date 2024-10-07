@@ -16,7 +16,7 @@ Every Thursday 11am-12pm CST
 | S1  |               Sep 19               | LLM Agents                           | Meng Li   | [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155) |
 | S2  |               Sep 26               | Programming by Example               | Yilin Xia | [Is Programming by Example solved by LLMs? ](https://arxiv.org/abs/2406.08316)                               |
 | S3  |               Oct 3                | Retrieval-Augmented Generation (RAG) | Yuanxi    | [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)                           |
-| S4  |               Oct 10               | TBD                                  | Tre       | TBD                                                                                                          |
+| S4  |               Oct 10               | Uses in Cognitive Science / Psychology           | Tre       | [CogBench: a large language model walks into a psychology lab](http://arxiv.org/abs/2402.18225)              |
 | S5  |               Oct 17               | TBD                                  | Yiren     | TBD                                                                                                          |
 | S6  |               Oct 24               | TBD                                  | Lan       | TBD                                                                                                          |
 | S7  |               Nov 7                | TBD                                  | Jerome    | TBD                                                                                                          |
