@@ -19,7 +19,7 @@ Every Thursday 11am-12pm CST
 | S4  |               Oct 10               | Uses in Cognitive Science / Psychology                | Tre       | [CogBench: a large language model walks into a psychology lab](http://arxiv.org/abs/2402.18225)                                   |
 | S5  |               Oct 24               | Persona                                               | Yiren     | [Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs](https://arxiv.org/abs/2311.04892)                            |
 | S6  |               Nov 7                | Weakly-supervised Text Classification (Practice Talk) | Jerome    | [SciPrompt: Knowledge-augmented Prompting for Fine-grained Categorization of Scientific Topics](https://arxiv.org/abs/2410.01946) |
-| S7  |               Nov 14               | TBD                                                   | Lan       | TBD                                                                                                                               |
+| S7  |               Nov 14               | Reasoning Capability                                  | Lan       | [Chain-of-table: Evolving tables in the reasoning chain for table understanding](https://arxiv.org/abs/2401.04398)                                                                                                                        |
 ### Spring 2024
 For spring 2024, we meet every Wednesday 11am-12pm CST
 | Sec | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic                     | Presenter           | Paper                                                                                                                                                                                                  |
